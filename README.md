@@ -133,7 +133,7 @@ Maintainer
 
 Contributors
 ------------
-- Fatih VATANSEVER - Experiments and Interface Designer - https://www.linkedin.com/in/fatih-vatansever-1bb5b8208/
+- Fatih VATANSEVER - Experiments and Interface Designer - https://www.linkedin.com/in/fatihvatansever/
 - Yağız UMUR - Experiments and Interface Designer - https://www.linkedin.com/in/ya%C4%9F%C4%B1z-umur-100721209/
 - Berkay YARIŞ - Experiments and Interface Designer - https://www.linkedin.com/in/berkay-yari%C5%9F-33741a147/
 - Enes YAZ - Navigation Subpackage Designer - https://www.linkedin.com/in/enes-yaz/
