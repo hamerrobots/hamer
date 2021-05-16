@@ -134,8 +134,8 @@ Maintainer
 Contributors
 ------------
 - Fatih VATANSEVER - Experiments and Interface Designer - https://www.linkedin.com/in/fatihvatansever/
-- Yağız UMUR - Experiments and Interface Designer - www.linkedin.com/in/yagizumur
-- Berkay YARIŞ - Experiments and Interface Designer - www.linkedin.com/in/berkayyaris
+- Yağız UMUR - Experiments and Interface Designer - https://www.linkedin.com/in/yagizumur/
+- Berkay YARIŞ - Experiments and Interface Designer - https://www.linkedin.com/in/berkayyaris/
 - Enes YAZ - Navigation Subpackage Designer - https://www.linkedin.com/in/enes-yaz/
 - Harun ÇOŞKUN - HAMER Robot Model Designer - https://www.linkedin.com/in/harun-%C3%A7o%C5%9Fkun-91a579159/
 - Berkay YAŞAR -Test Maps Designer - https://www.linkedin.com/in/efecan-berkay-yasar/
